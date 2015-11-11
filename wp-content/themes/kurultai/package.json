@@ -1,0 +1,18 @@
+{
+  "name": "wp-gulp-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "www.github.com/nlipsyc/personalWordpress",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Lipsyc",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-ftp": "^1.0.4",
+    "gulp-livereload": "^3.8.1"
+  }
+}
